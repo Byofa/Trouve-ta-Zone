@@ -6,6 +6,7 @@ When the customer wants to make purchases, he must select a single market where 
 
 The goal is to allow a customer to have an overview of the different markets and by area (20th market, 13th market, ...)
 The application must is responsive and easy to use. It is pluggable to Shopify.
+Winner [Project :trophy:](https://www.linkedin.com/feed/update/urn:li:activity:6745738425137209344/)
 
 ## Hackathon in Etna
 
@@ -27,4 +28,4 @@ Lylian SCHMITT   [Linkedin](https://www.linkedin.com/in/lylian-schmitt-819286203
 
 ## License
 
-This project is an opensource, read the CGV of ETNA school Paris.
+This project is an opensource, read the CGV of [ETNA](https://etna.io/) school Paris.

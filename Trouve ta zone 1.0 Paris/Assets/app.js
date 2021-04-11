@@ -4,7 +4,7 @@ var lastVisitedBox = "none";
 function showList(X)
 {
 
-    for (var i = 0; i < 20; i++) {
+    for (var i = 0; i < 21; i++) {
 
         let name = 'list_container' + i;
 

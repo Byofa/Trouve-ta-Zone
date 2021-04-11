@@ -5,7 +5,7 @@ When the customer wants to make purchases, he must select a single market where 
 ## Description
 
 The goal is to allow a customer to have an overview of the different markets and by area (20th market, 13th market, ...)
-The application must is responsive and easy to use. It is pluggable to Shopify.  
+The application must is responsive and easy to use. It is pluggable to Shopify Theme.  
 Winner [Project :trophy:](https://www.linkedin.com/feed/update/urn:li:activity:6745738425137209344/)
 
 ## Hackathon in Etna
